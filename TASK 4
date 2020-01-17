@@ -1,0 +1,8 @@
+TASK 4: THE LOCATE COMMAND
+
+1.locating a file = ~/workspace$ locate umuzi.md 
+/home/recruit/workspace/umuzi.md
+
+2. locate umuzi.md > search_results.md
+recruit@umuzi-admin:~/workspace$ ls -l
+total 20

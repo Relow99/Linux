@@ -1,0 +1,22 @@
+TASK 5 THE LOCATE COMMAND CONT...
+
+1.  cd Documents
+recruit@umuzi-admin:~/Documents$ touch pad.md
+
+2. :~$ cd Desktop
+recruit@umuzi-admin:~/Desktop$ mkdir work
+
+3. ~/Documents$ cp pad.md ~/Desktop/work
+	~/Desktop/work$ cp pad.md pad_copy.md
+
+4. ~/Desktop/work$ locate updatedb
+/etc/updatedb.conf
+/etc/alternatives/updatedb
+/etc/alternatives/updatedb.8.gz
+/usr/bin/updatedb
+
+5.  ~/Desktop/work$ cd -
+/home/recruit/Desktop
+
+6. ~/Desktop/work$ find pad_copy.md
+pad_copy.md

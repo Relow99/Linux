@@ -1,0 +1,6 @@
+TAST 2: ABSOLUTE and Relative Paths
+
+- Touch command - created an empty file called exercise.md in the workspace directory
+- MV command – moved exercise.md  to the tmp directory
+- RM command – removed/deleted the exercise.md from the tmp directory
+

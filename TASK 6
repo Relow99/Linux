@@ -1,0 +1,10 @@
+TASK6 : FIND COMMAND
+
+1. ~$ locate *.pdf
+  /usr/lib/libreoffice/share/xpdfimport/xpdfimport_err.pdf
+  /usr/share/cups/data/classified.pdf
+
+2. locate *.pdf /workspace
+
+3. locate daystart
+

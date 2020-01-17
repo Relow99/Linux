@@ -1,0 +1,9 @@
+TASK3: CAT COMMANDS.
+
+1. Touch command- creating 3 new files named umuzi.md recruit.md cohort.md in the workspace directory.
+
+2. tee command – filled a content of “healthy eating promotes productivity” in all files ctreated above.
+
+3. cat command- to display the content filled in all 3 files
+4. cat command- cohort.md umuzi.md recruit.md >> summary.md
+5. echo "The end" >> summary.md
